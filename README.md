@@ -11,4 +11,4 @@ Learning JavaScript from scratch as part of my Full Stack Developer journey.
 - ES6 Modules
 
 ## Goal
-Building towards React + Spring Boot Full Stack Development
+Building towards Angular + Spring Boot Full Stack Development
